@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Raxmonov-Bunyodjon?style=social)](https://github.com/Raxmonov-Bunyodjon)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bunyodjonraxmonov22@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RaxmonovBunyodjon)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40bunyodjonrakhmonov-blue?logo=telegram)](https://t.me/bunyodjonrakhmonov)
 
 🎯 I'm an aspiring **Android Developer** learning Kotlin and building mobile apps.  
 🚀 My goal is to join an internship and work on real-world projects.  
@@ -36,5 +37,6 @@
 
 ## 📬 Contact Me
 
-- **Telegram**: [@RaxmonovBunyodjon](https://t.me/RaxmonovBunyodjon)
+- **Telegram (personal)**: [@RaxmonovBunyodjon](https://t.me/RaxmonovBunyodjon)
+- **Telegram Channel**: [@bunyodjonrakhmonov](https://t.me/bunyodjonrakhmonov)
 - **Email**: [bunyodjonraxmonov22@gmail.com](mailto:bunyodjonraxmonov22@gmail.com)
