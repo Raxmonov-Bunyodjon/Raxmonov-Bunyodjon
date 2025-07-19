@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Raxmonov-Bunyodjon?style=social)](https://github.com/Raxmonov-Bunyodjon)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bunyodjonraxmonov22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyodjonrakhmonov/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RaxmonovBunyodjon)
 [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40bunyodjonrakhmonov-blue?logo=telegram)](https://t.me/bunyodjonrakhmonov)
 
@@ -40,3 +41,4 @@
 - **Telegram (personal)**: [@RaxmonovBunyodjon](https://t.me/RaxmonovBunyodjon)
 - **Telegram Channel**: [@bunyodjonrakhmonov](https://t.me/bunyodjonrakhmonov)
 - **Email**: [bunyodjonraxmonov22@gmail.com](mailto:bunyodjonraxmonov22@gmail.com)
+- **LinkedIn**: [linkedin.com/in/bunyodjonrakhmonov](https://www.linkedin.com/in/bunyodjonrakhmonov/)
