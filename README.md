@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bunyodjon
 
-[![GitHub followers](https://img.shields.io/github/followers/Raxmonov-Bunyodjon?style=social)](https://github.com/Raxmonov-Bunyodjon)
+[![GitHub followers](https://img.shields.io/github/followers/Raxmonov-Bunyodjon?label=Followers&style=social)](https://github.com/Raxmonov-Bunyodjon?tab=followers)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bunyodjonraxmonov22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyodjonrakhmonov/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RaxmonovBunyodjon)
