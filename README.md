@@ -30,7 +30,6 @@
 | Project           | Description                                           | Tech Used               |
 |-------------------|-------------------------------------------------------|--------------------------|
 | **Calculator App** | Simple UI with basic arithmetic operations           | Kotlin, XML              |
-| **To-Do List App** | CRUD operations for managing tasks                   | Kotlin, RecyclerView     |
 | **Contacts App**   | Contact manager using Room DB and List UI            | Kotlin, Room, RecyclerView |
 
 📎 [See all repositories →](https://github.com/Raxmonov-Bunyodjon?tab=repositories)
