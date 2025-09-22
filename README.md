@@ -7,9 +7,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RaxmonovBunyodjon)
 [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40bunyodjonrakhmonov-blue?logo=telegram)](https://t.me/bunyodjonrakhmonov)
 
-🎯 I'm an aspiring **Android Developer** learning Kotlin and building mobile apps.  
-🚀 My goal is to join an internship and work on real-world projects.  
-💡 Passionate about mobile UI, clean code, and solving real problems through apps.
+🎯 Android Developer Intern (since 8 September 2025), building real-world apps with Kotlin.  
+💡 Passionate about mobile UI, clean code, and practical app development.
 
 ---
 
