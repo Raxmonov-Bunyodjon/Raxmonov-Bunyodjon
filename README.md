@@ -25,19 +25,21 @@
 
 ---
 
-📂 My Portfolio Projects
-Project	Description	Tech Used
-UniversityApp	A sample university management app for student management. Educational project with clean architecture.	Kotlin, Android, MVVM, Hilt, Room, Navigation Component
-AddAndSaveContact	Contact management app (Add, Save, Delete functionality).	Kotlin, Room, RecyclerView
-PhoneApp	Basic phone app project with contacts and call simulation.	Kotlin, Android
-ViewPager2Lesson10	SQLite CRUD operations demo using ViewPager2.	Kotlin, Room, ViewPager2
-Room	Room database practice: Entity, DAO, Database, Relations.	Kotlin, Room
-KotlinCoroutines	MVVM example using Kotlin Coroutines for asynchronous tasks.	Kotlin, MVVM, Coroutines
-DaggerHiltinAndroid	Dependency Injection practice using Hilt in Android project.	Kotlin, Hilt, Android
-Calculator App	Simple calculator with basic arithmetic operations.	Kotlin, XML
-Contacts App	Contact manager using Room DB and RecyclerView UI.	Kotlin, Room, RecyclerView
+## 📂 My Portfolio Projects
 
-📎 See all repositories →
+| Project               | Description                                                          | Tech Used                                   |
+|-----------------------|----------------------------------------------------------------------|--------------------------------------------|
+| **UniversityApp**     | A sample university management app for student management. Educational project with clean architecture. | Kotlin, Android, MVVM, Hilt, Room, Navigation Component |
+| **AddAndSaveContact** | Contact management app (Add, Save, Delete functionality).           | Kotlin, Room, RecyclerView                  |
+| **PhoneApp**          | Basic phone app project with contacts and call simulation.           | Kotlin, Android                             |
+| **ViewPager2Lesson10**| SQLite CRUD operations demo using ViewPager2.                        | Kotlin, Room, ViewPager2                    |
+| **Room**              | Room database practice: Entity, DAO, Database, Relations.           | Kotlin, Room                                |
+| **KotlinCoroutines**  | MVVM example using Kotlin Coroutines for asynchronous tasks.        | Kotlin, MVVM, Coroutines                    |
+| **DaggerHiltinAndroid** | Dependency Injection practice using Hilt in Android project.      | Kotlin, Hilt, Android                       |
+| **Calculator App**    | Simple calculator with basic arithmetic operations.                 | Kotlin, XML                                 |
+| **Contacts App**      | Contact manager using Room DB and RecyclerView UI.                  | Kotlin, Room, RecyclerView                  |
+
+📎 [See all repositories →](https://github.com/Raxmonov-Bunyodjon?tab=repositories)
 
 ---
 
